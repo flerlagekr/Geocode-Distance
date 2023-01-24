@@ -1,0 +1,26 @@
+id,street1,street2,street3,city,state,postalcode,country
+1,1600 Pennsylvania Avenue,,,Washington,DC,20500,United States
+2,,,,Philadelphia,PA,17702,United States
+3,,,,Beijing,,,China
+4,,,,Cincinnati,OH,,United States
+5,,,,Scottsdale,AZ,,United States
+6,,,,Paris,,,France
+7,,,,Glasgow,,,United Kingdom
+8,,,,Las Vegas,NV,,United States
+9,,,,Quartzsite,AZ,,United States
+10,,,,Toronto,ON,,Canada
+11,,,,Dickinson,TX,,United States
+12,,,,Cleveland,OH,,United States
+13,,,,Philadelphia,PA,,United States
+14,,,,Kearns,UT,,United States
+15,,,,Garden Grove,CA,,United States
+16,,,,Fort Lauderdale,FL,,United States
+17,,,,Wichita,KS,,United States
+18,,,,Saint Francis,KS,,United States
+19,,,,Farmington,MO,,United States
+20,,,,Worcester,MA,,United States
+21,,,,Indio,CA,,United States
+22,,,,West Topsham,VT,,United States
+23,,,,West Topsham,VT,,United States
+24,,,,Novi,MI,,United States
+25,,,,Concord,NH,,United States
