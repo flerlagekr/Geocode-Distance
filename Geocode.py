@@ -13,7 +13,6 @@ from tkinter import Tk
 import datetime
 import os
 import pandas
-import datetime
 
 # Global variables.
 coordsCentralPoint = (55.8668, -4.2500)                              # Lat/Long of our central point.
